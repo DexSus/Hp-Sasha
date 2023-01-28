@@ -90,7 +90,7 @@ header h1{
 }
 
 .but{
-  position: relative;
+  position: absolute;
   z-index: 200;
   background: none;
   border: none;
