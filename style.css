@@ -90,8 +90,8 @@ header h1{
 }
 
 .but{
+  z-index: 199;
   position: absolute;
-  z-index: 200;
   background: none;
   border: none;
   padding-top: 250px;
@@ -129,7 +129,6 @@ header h1{
 
   .but{
     position: absolute;
-    
     background: none;
     border: none;
     padding-top: 100px;
