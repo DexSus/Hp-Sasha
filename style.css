@@ -107,11 +107,13 @@ header h1{
 
 @media (max-width: 768px) {
   #slider{
+    top: 10px;
     width: auto;
     height:530px;
     width:260px;
     margin: 0;
     padding: 0;
+    bottom: 70px;
     position: relative;
   }
 
